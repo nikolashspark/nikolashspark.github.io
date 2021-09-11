@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta http-equiv="Refresh" content="0; url=https://link2.tel/1aep">
+<meta http-equiv="Refresh" content="0; url=1">
 </head>
 <body>
 </body>
