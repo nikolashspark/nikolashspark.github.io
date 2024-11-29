@@ -1,0 +1,1 @@
+# photo-hugs-frontend
